@@ -1,7 +1,8 @@
-I've also ported:
+Ported:
 
-- Security Breach: Fury's Rage
-- Freddy In Space 3: Chica In Space
+Freddy in Space 2
+Freddy in Space 3
+Security Breach: Fury's rage
 
 its just their kinda broken and need touching up on
 
