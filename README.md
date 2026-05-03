@@ -2,7 +2,7 @@ Ported:
 
 - Freddy in Space 2
 - Freddy in Space 3
-- Security Breach: Fury's rage
+- Security Breach: Fury's Rage
 
 its just their kinda broken and need touching up on
 
