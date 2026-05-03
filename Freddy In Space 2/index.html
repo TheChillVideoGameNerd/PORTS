@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8"/>
+
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="HandheldFriendly" content="true" />
+
+  <title>Freddy In Space 2</title>
+
+  <script>
+    if (!document.createElement("canvas").getContext) {
+      window.open("http://www.clickteam.com/html5-fallback", "_self");
+    }
+  </script>
+
+  <script src="src/Runtime.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+
+    canvas {
+      display: inline-block;
+    }
+  </style>
+</head>
+
+<body>
+
+<div style="display:inline-block;">
+  <canvas id="MMFCanvas" width="720" height="480">
+    Your browser does not support Canvas.
+  </canvas>
+</div>
+
+<script>
+window.addEventListener("load", function () {
+  new Runtime(
+    "MMFCanvas",
+    "resources/Freddy In Space 2 Web Port.cch"
+  );
+});
+</script>
+
+</body>
+</html>
