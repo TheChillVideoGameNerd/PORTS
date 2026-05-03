@@ -5,4 +5,4 @@ I've also ported:
 
 its just their kinda broken and need touching up on
 
-huge thx to @Okarun on Discord for fixing Freddy In Space 2
+huge thx to @Okarun on Discord for helping me
