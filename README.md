@@ -1,6 +1,6 @@
 Ported:
 
-- Freddy in Space 2: https://thechillvideogamenerd.github.io/my-fnaf-ports/freddy%20in%20space%202/
+- Freddy in Space 2: https://thechillvideogamenerd.github.io/My-FNAF-Ports/Freddy%20In%20Space%202/
 - Freddy in Space 3
 - Security Breach: Fury's Rage
 
